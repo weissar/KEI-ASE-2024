@@ -24,6 +24,7 @@
     <ProjectGuid>{76b39740-f58f-4b20-a856-65eea29bc2f7}</ProjectGuid>
     <RootNamespace>cppconsole</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>cv1_cpp_console</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
